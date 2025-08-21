@@ -31,7 +31,7 @@ class Auto {
     }
 }
 
-//poniendo en práctica nuestra clase.
+//------------ fabricando objetos (instancias)
 
 const mazda = new Auto("Mazda", "CX-5", "Cherry"); // definimos nuestro nuevo objeto con propiedades específicas.
 
